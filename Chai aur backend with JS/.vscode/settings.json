@@ -1,0 +1,11 @@
+{
+    "json.schemas": [
+        {
+            // Is git enabled
+            "git.enabled": true,
+        
+            // Path to the git executable
+            "git.path": "/usr/local/bin/git"
+        }
+    ]
+}
